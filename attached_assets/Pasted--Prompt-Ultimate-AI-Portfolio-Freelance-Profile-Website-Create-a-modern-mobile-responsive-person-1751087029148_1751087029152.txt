@@ -1,0 +1,100 @@
+ Prompt: Ultimate AI Portfolio + Freelance Profile Website
+Create a modern, mobile-responsive personal portfolio website for an AI Engineer and Freelance Data Scientist named Shaik Nawaz.
+The site should be built using HTML, CSS, and JavaScript and include the following sections:
+
+🧑‍💻 Hero Section:
+Name: Shaik Nawaz
+
+Title: AI Engineer | Generative AI Enthusiast | Freelance Data Scientist
+
+Tagline: "AI Engineer & Freelancer solving real-world problems using ML, NLP, and Generative AI."
+
+CTA Buttons:
+
+“View My Work” → link to Projects section
+
+“Hire Me” → link to Freelance section
+
+🙋‍♂️ About Me:
+Location: Bangalore, India
+
+Education:
+
+PG in ML & AI – IIIT Bangalore
+
+B.Sc. (MPCS) – Osmania University
+
+Skills: Python, TensorFlow, Hugging Face, LangChain, LLMs, NLP, SQL, Streamlit, OpenAI, Computer Vision
+
+Certifications: AWS Certified Cloud Practitioner
+
+🚀 Projects Section (Card layout with tech stack tags and GitHub links):
+Smart FAQ Chatbot (LangChain, OpenAI, FAISS)
+
+PDF Chatbot (LangChain, GPT-3.5, Streamlit)
+
+Healthcare Fraud Detection (ML, Scikit-learn, SMOTE)
+
+Movie Recommendation (TF-IDF, Cosine Similarity, Python)
+
+News Summarizer + Hindi TTS (NLP, Generative AI, TTS)
+
+Gesture Recognition (CV, TensorFlow)
+
+Spam Ham Classifier (NLP, Scikit-learn)
+
+CNN for Melanoma Detection (TensorFlow, Medical AI)
+
+Each project card should include:
+
+Title
+
+Short description
+
+Tech used (as badges)
+
+View on GitHub button
+
+💼 Freelance Services Section:
+Short intro: "I also offer freelance AI/ML services on Fiverr and Upwork."
+
+Services Offered:
+
+AI Chatbot Development (PDF/FAQ)
+
+NLP Applications
+
+Streamlit App Deployment
+
+Machine Learning Model Training
+
+Buttons:
+
+“Hire Me on Fiverr” → https://www.fiverr.com/yourprofile
+
+“Hire Me on Upwork” → https://www.upwork.com/freelancers/yourprofile
+
+📄 Resume Section:
+Button to Download Resume: resume.pdf
+
+📬 Contact Section:
+Email: shaiknawaz1947@gmail.com
+
+GitHub: github.com/SSHAIKNAWAZ
+
+LinkedIn: linkedin.com/in/shaiknawaz
+
+🌗 Design Features:
+Light/Dark Mode Toggle
+
+Smooth scrolling navigation
+
+Professional fonts (Poppins or Inter)
+
+Tech badge style for each project
+
+Responsive design for mobile/tablet
+
+Animated hover effects
+
+SEO meta tags with keywords: “AI Engineer”, “Freelancer”, “LangChain”, “Generative AI”, “Chatbot Developer”
