@@ -16,7 +16,7 @@ export default function AboutSection() {
           </p>
         </div>
         
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Location */}
           <div className="text-center">
             <div className="bg-primary/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -36,15 +36,6 @@ export default function AboutSection() {
               PG in ML & AI - IIIT Bangalore<br/>
               B.Sc. (MPCS) - Osmania University
             </p>
-          </div>
-          
-          {/* Certification */}
-          <div className="text-center">
-            <div className="bg-primary/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-              <i className="fas fa-certificate text-primary text-xl"></i>
-            </div>
-            <h3 className="font-semibold mb-2">Certification</h3>
-            <p className="text-gray-600 dark:text-gray-300">AWS Certified Cloud Practitioner</p>
           </div>
           
           {/* Experience */}
