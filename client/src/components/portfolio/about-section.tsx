@@ -11,7 +11,7 @@ export default function AboutSection() {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
             AI Engineer and Data Scientist with expertise in machine learning, natural language processing, and generative AI. 
-            Based in Bangalore, India, I specialize in developing intelligent solutions that solve complex real-world problems 
+            Based in Hyderabad, India, I specialize in developing intelligent solutions that solve complex real-world problems 
             using cutting-edge AI technologies.
           </p>
         </div>
@@ -23,7 +23,7 @@ export default function AboutSection() {
               <i className="fas fa-map-marker-alt text-primary text-xl"></i>
             </div>
             <h3 className="font-semibold mb-2">Location</h3>
-            <p className="text-gray-600 dark:text-gray-300">Bangalore, India</p>
+            <p className="text-gray-600 dark:text-gray-300">Hyderabad, India</p>
           </div>
           
           {/* Education */}
