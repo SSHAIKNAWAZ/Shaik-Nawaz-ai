@@ -1,0 +1,52 @@
+📌 Create or update the "Freelance AI/ML & Technical Services" section of my personal portfolio website.
+Include an introduction, and group the services under three categories:
+
+🧠 AI/ML Services:
+🤖 AI Chatbot Development – Custom PDF, FAQ, and website-integrated chatbots using LangChain, OpenAI, and FAISS
+
+🧠 NLP Applications – Sentiment analysis, summarization, classification, NER, and keyword extraction
+
+🗃️ PDF Q&A Bots – Ask questions from PDF files using GPT-3.5/4 and LangChain
+
+📊 Data Analysis & Visualization – Create insights and visualizations using Pandas, Matplotlib, and Seaborn
+
+🧹 Data Cleaning & Organization – Clean, format, and preprocess messy Excel/CSV files using Pandas
+
+📈 ML Model Training – Build and evaluate regression, classification, and recommendation systems (Scikit-learn, XGBoost)
+
+📦 Streamlit App Deployment – Create & deploy interactive ML dashboards and tools
+
+🎯 Generative AI Projects – Text generation, summarization, prompt-based tools using GPT and Transformers
+
+🔬 Computer Vision Projects – Real-time gesture recognition and image classification using OpenCV and TensorFlow
+
+🧾 Resume Parser & Job Matching AI – NLP-based tools for recruitment automation
+
+🧪 Healthcare & Finance AI – Fraud detection, churn prediction, and industry-specific ML solutions
+
+🌐 API Integration for AI Tools – Connect ML models or chatbots to third-party tools via API
+
+📏 Model Evaluation & Explanation – R², accuracy, confusion matrix, SHAP/LIME-based explainability
+
+🧩 Beginner-Friendly Services (Value-Added):
+📤 Convert Raw Data into Clean Format – Fix missing values, unify formats, and prepare for analysis
+
+📘 Academic Project Assistance – Full help for college students building ML, NLP, or CV projects
+
+🧮 Prompt Engineering Help – Build reusable prompts for resume writing, SEO, email drafts, etc.
+
+📝 AI Content Generation Tools – Blog writers, news summarizers, YouTube script generators
+
+🧪 Dataset Sourcing & Creation – Scrape or compile datasets from public sources for custom use cases
+
+🎛️ Basic AI Tool Integration – Build AI flows that connect GPT to Google Sheets, Forms, Notion, etc.
+
+🌟 Beyond AI – Mentoring & Guidance:
+🖥️ AI Portfolio Website Development – Build responsive AI-focused websites using HTML/CSS/JS or Streamlit
+
+📘 1:1 AI Tutoring & Mentoring – Teach AI/ML, LLMs, LangChain, NLP to beginners and job seekers
+
+🛠️ Freelancing Setup Support – Help others get started on Fiverr and Upwork (gig writing, profile review)
+
+🧭 Project Planning & Guidance – Help students and professionals plan, scope, and deliver AI/ML projects
+
