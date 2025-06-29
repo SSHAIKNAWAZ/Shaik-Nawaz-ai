@@ -1,0 +1,29 @@
+<!-- ✨ Testimonials Section -->
+<section id="testimonials" class="py-10 bg-gray-100 dark:bg-gray-900">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center text-gray-800 dark:text-white mb-10">📢 Testimonials</h2>
+
+    <div class="space-y-8">
+      <div class="bg-white dark:bg-gray-800 shadow-md p-6 rounded-lg">
+        <p class="text-lg text-gray-700 dark:text-gray-300">
+          “Shaik demonstrated excellent end-to-end execution of an imbalanced fraud detection project. He built multiple models, used advanced evaluation techniques, and achieved an AUC score of over 96%. His code was clean, well-commented, and reflected a strong understanding of real-world data challenges.”
+        </p>
+        <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 text-right">— Project Evaluator, IIIT Bangalore</p>
+      </div>
+
+      <div class="bg-white dark:bg-gray-800 shadow-md p-6 rounded-lg">
+        <p class="text-lg text-gray-700 dark:text-gray-300">
+          “In our NLP assignment on custom Named Entity Recognition, Shaik's implementation stood out. From sentence construction to CRF feature engineering and evaluation, his work was thorough and accurate. His ability to extract disease-treatment pairs using logic and NLP tools was impressive.”
+        </p>
+        <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 text-right">— Mentor, NLP Track, IIIT Bangalore</p>
+      </div>
+
+      <div class="bg-white dark:bg-gray-800 shadow-md p-6 rounded-lg">
+        <p class="text-lg text-gray-700 dark:text-gray-300">
+          “Shaik delivered a top-notch regression project with clear EDA, proper data imputation, and robust model building using Lasso and Ridge. His answers to subjective questions were to-the-point, and his clean coding style showed great attention to detail.”
+        </p>
+        <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 text-right">— Faculty Grader, ML Capstone, IIIT Bangalore</p>
+      </div>
+    </div>
+  </div>
+</section>

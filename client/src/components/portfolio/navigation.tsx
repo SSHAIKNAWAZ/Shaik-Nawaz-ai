@@ -16,6 +16,7 @@ export default function Navigation() {
     { href: "#about", label: "About" },
     { href: "#projects", label: "Projects" },
     { href: "#freelance", label: "Freelance" },
+    { href: "#testimonials", label: "Testimonials" },
     { href: "#contact", label: "Contact" },
   ];
 
